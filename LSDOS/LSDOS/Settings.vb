@@ -34,11 +34,17 @@
         If Password1 = My.Settings.Password Then
             Console.Write("New Password: ")
             Password2 = Console.ReadLine
-            My.Settings.Password = Password2
-            My.Settings.Save()
+            Console.Write("Confirm: ")
+            If Console.ReadLine = Password2 Then
+                My.Settings.Password = Password2
+                My.Settings.Save()
+            Else
+                Console.WriteLine("Password does not match.")
+                Password()
+            End If
             Console.WriteLine("")
-            Terminal.Main()
-        End If
+                Terminal.Main()
+            End If
     End Sub
     Sub Username()
         Console.WriteLine("")
