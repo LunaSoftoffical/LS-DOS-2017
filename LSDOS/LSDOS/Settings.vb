@@ -39,7 +39,7 @@
                 My.Settings.Password = Password2
                 My.Settings.Save()
             Else
-                Console.WriteLine("Password does not match.")
+                Console.WriteLine("Password does not match. Starting over.")
                 Password()
             End If
             Console.WriteLine("")
