@@ -1,0 +1,30 @@
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.exe.config
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.exe
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.pdb
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.xml
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.vbprojResolveAssemblyReference.cache
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.Resources.resources
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.vbproj.GenerateResource.Cache
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.exe
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.xml
+c:\users\samuel\documents\visual studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.pdb
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.exe.config
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.exe
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.pdb
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\bin\Debug\LSDOS.xml
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.vbprojResolveAssemblyReference.cache
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.Resources.resources
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.vbproj.GenerateResource.Cache
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.exe
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.xml
+C:\Users\SamSoft\Documents\Visual Studio 2017\Projects\LSDOS\LSDOS\obj\Debug\LSDOS.pdb
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\bin\Debug\LSDOS.exe.config
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\bin\Debug\LSDOS.exe
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\bin\Debug\LSDOS.pdb
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\bin\Debug\LSDOS.xml
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.vbprojResolveAssemblyReference.cache
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.Resources.resources
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.vbproj.GenerateResource.Cache
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.exe
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.xml
+C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.pdb
