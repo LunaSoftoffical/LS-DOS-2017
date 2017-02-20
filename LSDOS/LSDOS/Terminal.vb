@@ -48,10 +48,8 @@ Module Terminal
         If Input.ToLower = "settings" Then
             Settings.Main()
         End If
-        Console.WriteLine("")
         Console.ForegroundColor = ConsoleColor.Red
         Console.WriteLine("Error: Invalid Command")
-        Console.WriteLine("")
         Main()
     End Sub
 End Module
