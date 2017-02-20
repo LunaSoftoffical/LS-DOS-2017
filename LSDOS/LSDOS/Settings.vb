@@ -48,6 +48,7 @@
     End Sub
     Sub Username()
         Console.WriteLine("")
+        Console.WriteLine($"Your current username: " + My.Settings.username)
         Console.Write("New Username: ")
         User = Console.ReadLine
         My.Settings.username = User
