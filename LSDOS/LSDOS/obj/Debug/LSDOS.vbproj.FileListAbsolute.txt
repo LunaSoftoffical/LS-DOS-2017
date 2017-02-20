@@ -28,3 +28,7 @@ C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.vbproj.GenerateResource.Cac
 C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.exe
 C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.xml
 C:\Users\SamSoft\Desktop\LSDOS\LSDOS\obj\Debug\LSDOS.pdb
+C:\Users\Jayden\Source\Repos\LS-DOS-2017\LSDOS\LSDOS\bin\Debug\LSDOS.exe.config
+C:\Users\Jayden\Source\Repos\LS-DOS-2017\LSDOS\LSDOS\obj\Debug\LSDOS.exe
+C:\Users\Jayden\Source\Repos\LS-DOS-2017\LSDOS\LSDOS\obj\Debug\LSDOS.xml
+C:\Users\Jayden\Source\Repos\LS-DOS-2017\LSDOS\LSDOS\obj\Debug\LSDOS.pdb

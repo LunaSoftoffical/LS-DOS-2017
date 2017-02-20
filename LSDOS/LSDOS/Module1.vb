@@ -24,7 +24,7 @@
         End If
     End Sub
     Sub Main()
-        Console.Title = "GS-DOS"
+        Console.Title = "LS-DOS"
         Console.ForegroundColor = ConsoleColor.White
         Console.WriteLine("Starting LS-DOS 2017...")
         Threading.Thread.Sleep(1000)
